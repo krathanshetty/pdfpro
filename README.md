@@ -1,6 +1,6 @@
 # PDF PRO
 
-PDF PRO is a browser-based React + Vite application for creating PDF documents from image uploads. It is built for speed, privacy, and simple workflow, with drag-and-drop page ordering and client-side PDF generation.
+PDF PRO is a browser-based React + Vite application for creating PDF documents from image uploads. It is built for speed, privacy, and simple workflow, with drag-and-drop page ordering and client-side PDF generation that keeps your files fully private in the browser.
 
 ## Features
 
